@@ -1,0 +1,2 @@
+# Python-darslari
+Bajargan ishlarim
